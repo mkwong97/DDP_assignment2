@@ -1,5 +1,5 @@
 ---
-title: "Developing Data Products assignment 2"
+title: "Developing Data Products Week 3 Assignment"
 date: "27 Oct 2020"
 output: html_document
 ---
